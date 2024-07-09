@@ -30,5 +30,3 @@ The Gesture-Controlled Home Automation System combines computer vision, Arduino,
 
 **Conclusion:**
 The Gesture-Controlled Home Automation System exemplifies the integration of modern technologies to create innovative solutions for everyday challenges. By leveraging computer vision and Arduino microcontrollers, this project not only showcases the potential of gesture recognition but also demonstrates practical applications in enhancing home automation and accessibility.
-
-**Note:** This README provides an overview of the project, excluding specific code details. For implementation instructions and code, please refer to the accompanying files in the repository.

@@ -9,6 +9,8 @@ The Gesture-Controlled Home Automation System combines computer vision, Arduino,
 - **Webcam:** Captures live video frames used for hand gesture detection via computer vision.
 - **Computer:** Runs the Python script that processes video frames, detects gestures, and sends commands to the Arduino.
 - **Electrical Devices:** Demonstrates control of light bulbs; can be expanded for other appliances.
+- ![circuit diagram](https://github.com/JehanSadik45353563/Home-Automation-with-arduino-and-relay-module/assets/116582419/7695e330-4547-4d7d-a96a-16bebcab1d50)
+
 
 **Features:**
 - **Computer Vision:** Utilizes OpenCV for capturing and processing video frames, and MediaPipe for hand tracking and gesture recognition.
